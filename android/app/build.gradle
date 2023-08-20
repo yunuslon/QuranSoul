@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.quranapp"
+    namespace "com.quransoul"
     defaultConfig {
-        applicationId "com.quranapp"
+        applicationId "com.quransoul"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

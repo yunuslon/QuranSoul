@@ -1,4 +1,4 @@
-package com.quranapp;
+package com.quransoul;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
